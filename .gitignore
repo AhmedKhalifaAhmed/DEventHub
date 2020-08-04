@@ -4,6 +4,6 @@
 **/__pycache__
 *.pyc
 # requirements.txt
-app/requirements.txt
+**/requirements.txt
 # env
 **/.env.*
