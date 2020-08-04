@@ -1,0 +1,9 @@
+# pipenv lock file (sometimes creates issues)
+**/Pipfile.lock
+# python cache
+**/__pycache__
+*.pyc
+# requirements.txt
+app/requirements.txt
+# env
+**/.env.*
